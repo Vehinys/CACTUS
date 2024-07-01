@@ -147,6 +147,7 @@ img {
   font-weight: var(--font-semi-bold);
   column-gap: .25rem;
   align-items: center;
+  font-size: 1.75rem;
 }
 
 .nav__logo i {
